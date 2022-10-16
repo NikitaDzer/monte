@@ -5,7 +5,7 @@ Splitting a program into threads often speeds up program execution. As a homewor
 We have used the Monte Carlo method to find a certain integral of non-negative monotonically increasing functions.
 
 ## Approach to measure
-Util **time** can measure real execution time. 
+Util **time** can measure real execution time. <br> 
 We wrote **run.sh** script to run this utility 5 times for each number of threads (1 - 24).
 
 ## Results 
